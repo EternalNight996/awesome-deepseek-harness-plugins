@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "eternalnight996/dsh-pixel-team",
+  "name": "dsh-pixel-team",
+  "repository": "https://github.com/eternalnight996/dsh-pixel-team",
+  "category": "ui",
+  "description": {
+    "en": "A pixel cultivation hall for DeepSeek Harness: a captain-led multi-agent team with a dependency-aware task DAG, quality gates, and a 15-realm cultivation layer rendered in a pixel office.",
+    "zh": "给 DeepSeek Harness 的像素修仙洞府：掌教带队、依赖感知任务 DAG、质量门禁，以及画进像素洞府的十五重境界修炼层。"
+  },
+  "added": "2026-10-27"
+}
